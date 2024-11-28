@@ -1,0 +1,7 @@
+{
+    "require": {
+        "smsc/smsc-api-php": "^1.0",
+        "twilio/sdk": "^6.40",
+        "messagebird/php-rest-api": "^3.1"
+    }
+}
